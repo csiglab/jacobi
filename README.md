@@ -24,6 +24,7 @@ sql.append( ConstantesSQL.SELECT  )
 
 ## References
 
+- [How to write a transpiler](https://tomassetti.me/how-to-write-a-transpiler/)
 - [jOOQ](https://www.jooq.org/translate/)
 - [Source-to-source compiler](https://en.wikipedia.org/wiki/Source-to-source_compiler)
 - [SQL2LINQConvertor](https://github.com/ganeshkamath89/SQL2LINQConvertor)
