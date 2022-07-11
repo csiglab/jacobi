@@ -26,8 +26,9 @@ sql.append( ConstantesSQL.SELECT  )
 
 - [jOOQ](https://www.jooq.org/translate/)
 - [Source-to-source compiler](https://en.wikipedia.org/wiki/Source-to-source_compiler)
+- [SQL2LINQConvertor](https://github.com/ganeshkamath89/SQL2LINQConvertor)
+- [Transpiling between any programming languages (Part 1)](https://engineering.mongodb.com/post/transpiling-between-any-programming-languages-part-1)
 
 ## TODO
 
-- Descargar y utilizar jOOQ,
-- Hacer app web imitando a (SQL Translation)[https://www.jooq.org/translate/]
+- 
