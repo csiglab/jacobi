@@ -21,9 +21,11 @@ sql.append( ConstantesSQL.SELECT  )
 ¿Cómo resolver el problema?
 - Formatear la sentencia SQL, tokenizar, reemplazar.
 
-He encontrado una solución:
+
+## References
 
 - [jOOQ](https://www.jooq.org/translate/)
+- [Source-to-source compiler](https://en.wikipedia.org/wiki/Source-to-source_compiler)
 
 ## TODO
 
